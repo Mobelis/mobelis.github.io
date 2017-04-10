@@ -1,7 +1,7 @@
 # Summary
 
 * [Вступление](README.md)
-* [Хостинг](chapter1.md)
-* Установка
-* Настройка
+* [Хостинг](hosting.md)
+* [Установка](ustanovka.md)
+* [Настройка](nastroika.md)
 
