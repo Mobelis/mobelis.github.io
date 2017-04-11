@@ -1,8 +1,8 @@
 # Summary
 
 * [Вступление](README.md)
-* [Хостинг](hosting.md)
+* [Хостинг](hosting/README.md)
   * [ukraine.com.ua](hosting/ukrainecomua.md)
-* [Установка](ustanovka.md)
+* [Установка](setup/README.md)
 * [Настройка](nastroika.md)
 
