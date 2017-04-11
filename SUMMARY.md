@@ -4,5 +4,5 @@
 * [Хостинг](hosting/README.md)
   * [ukraine.com.ua](hosting/ukrainecomua.md)
 * [Установка](setup/README.md)
-* [Настройка](nastroika.md)
+* [Настройка](settings/README.md)
 
