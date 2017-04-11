@@ -2,7 +2,7 @@
 
 Описание необходимых настроек для конкретных площадок хостинг услуг.
 
-* ukraine.com.ua
+* [ukraine.com.ua](/hosting/ukrainecomua.md)
 
 
 
