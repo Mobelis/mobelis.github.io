@@ -6,4 +6,5 @@
 * [Установка](setup/README.md)
 * [Настройка](settings/README.md)
   * [Шаблон](settings/templates.md)
+* [Дополнения](dopolneniya.md)
 
