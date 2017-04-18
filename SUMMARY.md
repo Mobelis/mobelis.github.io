@@ -5,4 +5,5 @@
   * [ukraine.com.ua](hosting/ukrainecomua.md)
 * [Установка](setup/README.md)
 * [Настройка](settings/README.md)
+* [Шаблон](shablon.md)
 
